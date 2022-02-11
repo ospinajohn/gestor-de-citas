@@ -30,7 +30,7 @@
 </head>
 
 <body>
-	<h1 class="titulo-body">Bienvenido a web Soportes Tecnológicos LT
+	<h1 class="titulo-body">Bienvenido a Soportes Tecnológicos LT
 	</h1>
 	<main>
 		<div class="contenedor__todo">
